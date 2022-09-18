@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/RoswellScene.unity
-    guid: 9ed29c3d869964f0fb78b68ddf1dade8
+    path: Assets/Scenes/Project1Banal.unity
+    guid: d663c6b64f822be488945b893b888dca
   m_configObjects: {}

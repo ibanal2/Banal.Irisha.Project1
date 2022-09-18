@@ -13,7 +13,7 @@ scopes = {
 	"last_search.F8949528" = "ref:24004:"
 	"OpenInspectorPreview.F8949528" = "0"
 	"currentGroup.F8949528" = "all"
-	"last_search.DA949528" = "terminal"
+	"last_search.DA949528" = "detail tex"
 	"OpenInspectorPreview.DA949528" = "0"
 	"currentGroup.DA949528" = "all"
 }
@@ -62,6 +62,7 @@ providers = {
 objectSelectors = {
 }
 recentSearches = [
+	"a"
 	"ref:24004:"
 ]
 searchItemFavorites = [
